@@ -1,14 +1,14 @@
 [
   {
-    channel: 1,
-    value: 3.14
+    "channel": 1,
+    "value": 3.14
   },
   {
-    channel: 2,
-    value: 1592
+    "channel": 2,
+    "value": 1592
   },
   {
-    channel: 3,
-    value: 6535
+    "channel": 3,
+    "value": 6535
   }
 ]
