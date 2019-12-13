@@ -1,14 +1,14 @@
 [
   {
-    "channel": 1,
-    "value": "314"
+    "id": 1,
+    "title": "Post 1"
   },
   {
-    "channel": 2,
-    "value": "1592"
+    "id": 2,
+    "title": "Post 2"
   },
   {
-    "channel": 3,
-    "value": "6535"
+    "id": 3,
+    "title": "Post 3"
   }
 ]
