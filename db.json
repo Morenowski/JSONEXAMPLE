@@ -1,5 +1,6 @@
 {
   "posts": [
+    { "Channel": 0, "Value": 3.14 },
     { "Channel": 1, "Value": 3.14 },
     { "Channel": 2, "Value": 1234 },
     { "Channel": 3, "Value": 435 }
